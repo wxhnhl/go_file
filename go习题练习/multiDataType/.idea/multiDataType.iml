@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="Go" enabled="true" />
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="function" />
+    <orderEntry type="module" module-name="method" />
+    <orderEntry type="module" module-name="Interface" />
+    <orderEntry type="module" module-name="Goroutine_Channels" />
+    <orderEntry type="module" module-name="Concurrency" />
+    <orderEntry type="module" module-name="Pkg_tool" />
+    <orderEntry type="module" module-name="testproject" />
+    <orderEntry type="module" module-name="reflect" />
+    <orderEntry type="module" module-name="bachcomputing" />
+  </component>
+</module>

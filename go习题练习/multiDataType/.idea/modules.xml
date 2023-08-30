@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Concurrency/.idea/Concurrency.iml" filepath="$PROJECT_DIR$/../Concurrency/.idea/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Goroutine_Channel/.idea/Goroutine_Channels.iml" filepath="$PROJECT_DIR$/../Goroutine_Channel/.idea/Goroutine_Channels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Interface/.idea/Interface.iml" filepath="$PROJECT_DIR$/../Interface/.idea/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pkg_tool/.idea/Pkg_tool.iml" filepath="$PROJECT_DIR$/../Pkg_tool/.idea/Pkg_tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bachcomputing/.idea/bachcomputing.iml" filepath="$PROJECT_DIR$/../bachcomputing/.idea/bachcomputing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../function/.idea/function.iml" filepath="$PROJECT_DIR$/../function/.idea/function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../method/.idea/method.iml" filepath="$PROJECT_DIR$/../method/.idea/method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/multiDataType.iml" filepath="$PROJECT_DIR$/.idea/multiDataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../reflect/.idea/reflect.iml" filepath="$PROJECT_DIR$/../reflect/.idea/reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testproject/.idea/testproject.iml" filepath="$PROJECT_DIR$/../testproject/.idea/testproject.iml" />
+    </modules>
+  </component>
+</project>
